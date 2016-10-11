@@ -103,3 +103,4 @@ end
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dannysmith/guard-shopifytheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+also authored by TOM HOGAN
